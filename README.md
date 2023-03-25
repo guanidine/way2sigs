@@ -237,14 +237,3 @@
 ---
 
 [Github - 考研用过的各类资料](https://github.com/guanidine/way2sigs)
-
----
-
-<p style="color: rgba(0,0,0,0)">是怎样的幸运，才能在考研这段焦虑的时光遇到你</p>
-<p style="color: rgba(0,0,0,0)">坐在我对面，那样可爱，那样活泼</p>
-<p style="color: rgba(0,0,0,0)">喜欢你的一举一动，喜欢你的一颦一笑</p>
-<p style="color: rgba(0,0,0,0)">喜欢静静地看着你，忘记考研的压力和烦恼，心中所想只有美好</p>
-<p style="color: rgba(0,0,0,0)">明知道是一段不会有结果的暗恋，为何总是念念不忘</p>
-<p style="color: rgba(0,0,0,0)">为什么冒失地想要走进你的世界，然后再狼狈地离开</p>
-<p style="color: rgba(0,0,0,0)">一点小心思，也只敢在这里写下来了，大概没人会看到吧</p>
-<p style="color: rgba(0,0,0,0)">还是，祝你幸福</p>
